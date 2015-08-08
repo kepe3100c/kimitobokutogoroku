@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KimiToBoku.Goroku</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="a0">as</string>
+    <string name="a1">test</string>
+    <string name="a2">out</string>
+    
+    <string-array name="chi_array">
+        <item>俺に近寄るとやけどするぜ</item>
+        <item>メリー！</item>
+    </string-array>
+    
+    <string-array name="shu_array">
+        <item>俺に近寄るとやけどするぜ</item>
+        <item>メリー！</item>
+    </string-array>
+    
+    <string-array name="yut_array">
+        <item>俺に近寄るとやけどするぜ</item>
+        <item>メリー！</item>
+    </string-array>
+        
+    <string-array name="yuk_array">
+        <item>俺に近寄るとやけどするぜ</item>
+        <item>メリー！</item>
+    </string-array>
+            
+
+</resources>
